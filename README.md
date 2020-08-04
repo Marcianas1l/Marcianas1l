@@ -10,4 +10,4 @@
 
   Obrigada pela visita, vejo você na próxima vez!<br>
  
- ![Visitor Count](https://profile-counter.glitch.me/{Marcianas1l}/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/{Marcianas1l}/count.svg)
