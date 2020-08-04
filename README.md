@@ -8,8 +8,5 @@
   ** Twitter [marcianasiilva](https://twitter.com/marcianasiilva)
   ** LinkedIn [marciana-silva](https://www.linkedin.com/in/marciana-silva/)
 
-
-   Já atuei em áreas com mais burocracia, como administração. 
-   Fui Assistente Administrativa por quase um ano e meio na empresa Magazine Luiza onde aprendi bastante sobre o cargo, fui Gerente na Lojas Americanas e também na Di Santinni onde desenvolvi habilidades na administração e varejo.
-
-   Tive a oportunidade de ser instrutora de informática na Microlins e participar de projetos envolvendo uma comunidade carente da região.
+  Obrigada pela visita, vejo você na próxima vez!
+  ![Visitor Count](https://profile-counter.glitch.me/{Marcianas1l}/count.svg)
