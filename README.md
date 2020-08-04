@@ -1,9 +1,13 @@
-### Hi there 👋
+### Olá pessoal 👋
 
-Formada em Ciência da Computação, o que lhe trouxe um grande conhecimento em tecnologia, já atuou em áreas com mais burocracia, como administração. Foi Assistente Administrativa por quase um ano e meio na empresa Magazine Luiza onde aprendeu bastante sobre o cargo, foi Gerente na Lojas Americanas e também na Di Santinni onde desenvolveu habilidades na administração e varejo.
-Teve a oportunidade de ser instrutora de informática na Microlins e participar de projetos envolvendo uma comunidade carente da região. Possui conhecimentos em HTML5, CSS3 e JAVASCRIPT, e com constância está a dedicar-se a criação de páginas web e ao aperfeiçoamento de novas tecnologias. 
+Sou bacharela em Ciência da Computação
+Já atuei em áreas com mais burocracia, como administração. 
+Fui Assistente Administrativa por quase um ano e meio na empresa Magazine Luiza onde aprendi bastante sobre o cargo, fui Gerente na Lojas Americanas e também na Di Santinni onde desenvolvi habilidades na administração e varejo.
 
-<!--
+Tive a oportunidade de ser instrutora de informática na Microlins e participar de projetos envolvendo uma comunidade carente da região. 
+Possuo conhecimentos em HTML5, CSS3 e JAVASCRIPT, e com constância estou me dedicando a criação de páginas web e ao aperfeiçoamento de novas tecnologias. 
+
+
 **Marcianas1l/Marcianas1l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
