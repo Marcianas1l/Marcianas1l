@@ -8,5 +8,6 @@
   ** Twitter [marcianasiilva](https://twitter.com/marcianasiilva)
   ** LinkedIn [marciana-silva](https://www.linkedin.com/in/marciana-silva/)
 
-  Obrigada pela visita, vejo você na próxima vez!
-  ![Visitor Count](https://profile-counter.glitch.me/{Marcianas1l}/count.svg)
+  Obrigada pela visita, vejo você na próxima vez!<br>
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{Marcianas1l}/count.svg)
