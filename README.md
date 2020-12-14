@@ -1,7 +1,7 @@
 ### Olá pessoal 👋 
 
 - 🔭 Sou bacharela em Ciência da Computação
-- 🌱 Possuo conhecimentos em HTML5, CSS3 e JAVASCRIPT, e com constância estou me dedicando a criação de páginas web e ao aperfeiçoamento de novas tecnologias.
+- 🌱 Possuo conhecimentos em HTML5, CSS3, JAVASCRIPT, SASS e otimização com GULP, e com constância estou me dedicando a criação de páginas web e ao aperfeiçoamento de novas tecnologias.
 - 💬 Curto tecnologias, livros e seriados no Netflix
 - 📫 Vamos manter contato? 
   ** Instagram [marciana_sil](https://www.instagram.com/marciana_sil/)
